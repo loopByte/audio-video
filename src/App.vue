@@ -71,7 +71,7 @@ function activeMedia(index) {
 	overflow: hidden;
 }
 video {
-	width: auto;
+	width: 100%;
 	height: 450px;
 	aspect-ratio:16 / 9;
 }
